@@ -1,4 +1,3 @@
-import random
 from unidecode import unidecode
 
 class Pendu :
